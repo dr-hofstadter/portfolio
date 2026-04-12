@@ -28,10 +28,10 @@
   ],
   "experience": [
     {
-      "company": "LearnSol",
-      "role": "Founder & Lead Developer",
-      "date": "Oct 2025 – Jan 2026",
-      "location": "Remote",
+      "company": "Gain.ai",
+      "role": "Private Equity Analyst",
+      "date": "Feb 2026 – Present",
+      "location": "Bangalore",
       "badge": "Solana Foundation Grant — $5,000",
       "bullets": [
         "Received $5K Solana Foundation grant",
@@ -42,10 +42,10 @@
       "stack": ["Next.js", "Rust", "Anchor", "pgvector", "TypeScript", "AI"]
     },
     {
-      "company": "FOSSEE, IIT Bombay",
-      "role": "Software Engineering Intern",
-      "date": "Feb – Jun 2025",
-      "location": "Remote",
+      "company": "AmarUjala Ltd",
+      "role": "Management Trainee - Research",
+      "date": "Jun 2025 – Jan 2026",
+      "location": "Noida",
       "bullets": [
         "Built 4+ full-stack structural design modules using React, Django, and REST APIs",
         "Developed 2 steel design modules from scratch based on IS 800:2007 with 15+ validation checks",
