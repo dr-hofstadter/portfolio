@@ -1,29 +1,28 @@
 {
   "links": [
-    { "label": "email", "href": "mailto:raghu250407@gmail.com" },
+    { "label": "email", "href": "mailto:utsav.raj.338@gmail.com" },
     {
       "label": "github",
-      "href": "https://github.com/some1uknow",
+      "href": "https://github.com/dr-hofstadter/",
       "external": true
     },
     {
       "label": "linkedIn",
-      "href": "https://linkedin.com/in/raghavsharmaweb3",
+      "href": "https://linkedin.com/in/utsav-srcc",
       "external": true
     },
-    { "label": "x", "href": "https://x.com/raghavdotsol", "external": true }
+    { "label": "x", "href": "https://x.com/69iq_retard", "external": true }
   ],
   "aboutParagraphs": [
-    "Hey, I'm Utsav. i build on solana across the stack, from on-chain programs and rust tooling to developer education that helps people ship faster.",
-    "right now i'm focused on rust, systems, protocol design, and understanding how solana works under the hood. member at superteam india."
+    "Hey, I'm Utsav. Private Equity Analyst at Gain.ai. NISM-certified, focused on investment analysis and leveraging AI for smarter decision-making."
   ],
   "aboutStack": [
-    "Rust",
-    "Solana",
-    "Anchor",
-    "Next.js",
-    "Postgres",
-    "TypeScript",
+    "Excel",
+    "FactSet",
+    "Python",
+    "SQL",
+    "Research",
+    "Private Equity",
     "Protocol Engineering",
     "Developer Education"
   ],
