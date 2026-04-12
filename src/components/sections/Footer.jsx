@@ -28,7 +28,7 @@ export default function Footer() {
           color: "#0a0a0a",
         }}
       >
-        raghav sharma
+        Utsav Singh
       </div>
 
       <div
@@ -65,7 +65,7 @@ export default function Footer() {
           className="footer-note"
           style={{ fontSize: 10, color: "#ccc", marginTop: 12, letterSpacing: "0.06em" }}
         >
-          New Delhi, IN — Available worldwide
+          Bangalore, IN — Available worldwide
         </div>
       </div>
     </footer>
