@@ -47,7 +47,7 @@ export default function Hero() {
             marginTop: 4,
           }}
         />
-        <span>Protocol Engineer & Developer Relations — New Delhi, IN</span>
+        <span>Research Analyst & Private Equity — Bangalore, IN</span>
       </p>
 
       <h1
