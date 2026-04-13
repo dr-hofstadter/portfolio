@@ -31,7 +31,7 @@
       "company": "Gain.ai",
       "role": "Private Equity Analyst",
       "date": "Feb'26 – Present",
-      "location": "Bangalore",
+      "location": "Bangalore, KA",
       "badge": "Solana Foundation Grant — $5,000",
       "bullets": [
         "Received $5K Solana Foundation grant",
@@ -45,7 +45,7 @@
       "company": "AmarUjala Ltd",
       "role": "Management Trainee - Research",
       "date": "Jun'25 – Jan'26",
-      "location": "Noida",
+      "location": "Noida, UP",
       "bullets": [
         "Built 4+ full-stack structural design modules using React, Django, and REST APIs",
         "Developed 2 steel design modules from scratch based on IS 800:2007 with 15+ validation checks",
@@ -55,10 +55,10 @@
       "stack": ["Django", "Docker", "React"]
     },
     {
-      "company": "Debales AI",
-      "role": "Software Engineering Intern",
-      "date": "Jul – Sep 2024",
-      "location": "Katy, Texas (Remote)",
+      "company": "Wipro Ltd",
+      "role": "Project Engineer",
+      "date": "May'22 – Jul'23",
+      "location": "Kochi, KL",
       "bullets": [
         "Built a session-based chat persistence layer handling 500+ daily conversations with no data loss.",
         "Built a user feedback pipeline that collected 1,200+ ratings and drove a 15% improvement in model accuracy",
@@ -71,11 +71,11 @@
   "projects": [
     {
       "num": "01",
-      "name": "MPMC Queue",
+      "name": "Quant Strategy - Moving Average Crossover",
       "desc": "Bounded multi-producer multi-consumer queue in Rust. Mutex/Condvar, blocking + non-blocking modes. 72.3M ops/sec. 13 integration tests. Zero unsafe code.",
-      "stack": ["Rust", "Concurrency"],
+      "stack": ["Python", "Strategy"],
       "meta": "72.3M ops/sec · 13 tests · 0 unsafe",
-      "github": "https://github.com/Some1Uknow/mpmc-queue-rust"
+      "github": "https://github.com/dr-hofstadter/Quant-Strategy"
     },
     {
       "num": "02",
@@ -124,15 +124,15 @@
   "awards": [
     {
       "num": "01",
-      "title": "Solana Foundation Grant — $5,000",
+      "title": "NISM Research Analyst — XV",
       "desc": "Top 2% from 250+ submissions. Funded LearnSolana.",
       "year": "2025"
     },
     {
       "num": "02",
-      "title": "Colosseum Codex Feature",
+      "title": "Google - Associate Cloud Engineer",
       "desc": "Highlighted in official Solana newsletter for developer education impact.",
-      "year": "2025"
+      "year": "2022"
     },
     {
       "num": "03",
