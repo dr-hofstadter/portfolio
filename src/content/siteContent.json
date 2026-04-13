@@ -72,20 +72,19 @@
     {
       "num": "01",
       "name": "Quant Strategy - Moving Average Crossover",
-      "desc": "Bounded multi-producer multi-consumer queue in Rust. Mutex/Condvar, blocking + non-blocking modes. 72.3M ops/sec. 13 integration tests. Zero unsafe code.",
+      "desc": "Designed and backtested systematic trading strategy using Python, yfinance and vectorbt; analysed Sharpe ratio, drawdowns and rolling returns; automated equity curve visualizations and generated performance reports.",
       "stack": ["Python", "Strategy"],
-      "meta": "72.3M ops/sec · 13 tests · 0 unsafe",
+      "meta": "Quant · yfinance · vectorbt",
       "github": "https://github.com/dr-hofstadter/Quant-Strategy"
+      "live": "https://quant-strategy-aszwsb52xhjnixhs68paob.streamlit.app/",
+      "liveLabel": "QuantProject.streamlit"
     },
     {
       "num": "02",
-      "name": "solana-txn-tui",
-      "desc": "Published Rust crate for exploring Solana transactions and accounts in the terminal. cargo install, Homebrew, or curl. Fee breakdown, instruction details, token transfers. Mainnet / Devnet / Testnet.",
-      "stack": ["Rust", "Ratatui", "Solana RPC"],
-      "meta": "crates.io · Homebrew · Windows binary · 4 releases",
-      "github": "https://github.com/Some1Uknow/solana-txn-tui",
-      "live": "https://crates.io/crates/solana-txn-tui",
-      "liveLabel": "crates.io"
+      "name": "Covid-19 Analytics Dashboard",
+      "desc": "Analysed 1M+ records from 150+ countries; visualized 20+ KPIs and identified 5 statistically significant insights related to HDI and Covid outcomes",
+      "stack": ["SQL", "Tableau"],
+      "github": "https://github.com/dr-hofstadter/SQL_covidAnal",
     },
     {
       "num": "03",
