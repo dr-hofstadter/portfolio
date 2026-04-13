@@ -84,7 +84,7 @@
       "name": "Covid-19 Analytics Dashboard",
       "desc": "Analysed 1M+ records from 150+ countries; visualized 20+ KPIs and identified 5 statistically significant insights related to HDI and Covid outcomes",
       "stack": ["SQL", "Tableau"],
-      "github": "https://github.com/dr-hofstadter/SQL_covidAnal",
+      "github": "https://github.com/dr-hofstadter/SQL_covidAnal"
     },
     {
       "num": "03",
