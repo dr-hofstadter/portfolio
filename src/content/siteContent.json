@@ -75,7 +75,7 @@
       "desc": "Designed and backtested systematic trading strategy using Python, yfinance and vectorbt; analysed Sharpe ratio, drawdowns and rolling returns; automated equity curve visualizations and generated performance reports.",
       "stack": ["Python", "Strategy"],
       "meta": "Quant · yfinance · vectorbt",
-      "github": "https://github.com/dr-hofstadter/Quant-Strategy"
+      "github": "https://github.com/dr-hofstadter/Quant-Strategy",
       "live": "https://quant-strategy-aszwsb52xhjnixhs68paob.streamlit.app",
       "liveLabel": "QuantProject.streamlit"
     },
