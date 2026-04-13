@@ -76,7 +76,7 @@
       "stack": ["Python", "Strategy"],
       "meta": "Quant · yfinance · vectorbt",
       "github": "https://github.com/dr-hofstadter/Quant-Strategy"
-      "live": "https://quant-strategy-aszwsb52xhjnixhs68paob.streamlit.app/",
+      "live": "https://quant-strategy-aszwsb52xhjnixhs68paob.streamlit.app",
       "liveLabel": "QuantProject.streamlit"
     },
     {
