@@ -34,10 +34,9 @@
       "location": "Bangalore, KA",
       "badge": "Solana Foundation Grant — $5,000",
       "bullets": [
-        "Received $5K Solana Foundation grant",
-        "1,200+ users · AI assistant at 96% accuracy on Solana/Rust/Anchor queries",
-        "RAG pipeline over 100+ docs via pgvector · live Rust/Anchor compilation sandbox",
-        "1,100+ exercises completed in production, zero bugs"
+        "Researched and analyzed data on private, PE/VC-backed, and public companies from diverse sources, including press releases, SEC filings (10-K/Q, S-1, D), industry reports and market intelligence",
+        "Tracked a wide range of deal types including LBO/Buyout, M&A, Add-on, Growth Equity, PIPE, Secondary transactions, and other financing events",
+        "Aggregated and structured large datasets on company financials, ownership structures, and transaction history"
       ],
       "stack": ["Next.js", "Rust", "Anchor", "pgvector", "TypeScript", "AI"]
     },
