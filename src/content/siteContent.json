@@ -3,7 +3,7 @@
     { "label": "email", "href": "mailto:utsav.raj.338@gmail.com" },
     {
       "label": "github",
-      "href": "https://github.com/dr-hofstadter/",
+      "href": "https://github.com/dr-hofstadter",
       "external": true
     },
     {
@@ -23,8 +23,8 @@
     "SQL",
     "Research",
     "Private Equity",
-    "Protocol Engineering",
-    "Developer Education"
+    "Financial Modelling",
+    "Business Intelligence"
   ],
   "experience": [
     {
@@ -32,14 +32,14 @@
       "role": "Private Equity Analyst",
       "date": "Feb'26 – Present",
       "location": "Bangalore, KA",
-      "badge": "Solana Foundation Grant — $5,000",
+      "badge": "SEC Filings | LBO/Buyout | M&A | PIPE",
       "bullets": [
         "Researched and analyzed data on private, PE/VC-backed, and public companies from diverse sources",
         "Insights from press releases, SEC filings (10-K/Q, S-1, D), industry reports, and market intelligence",
         "Tracked a wide range of deal types including LBO/Buyout, M&A, Add-on, Growth Equity, PIPE and Secondary transactions",
         "Aggregated and structured large datasets on company financials, ownership structures, and transaction history"
       ],
-      "stack": ["Next.js", "Rust", "Anchor", "pgvector", "TypeScript", "AI"]
+      "stack": ["FactSet", "Excel", "Research", "CMS"]
     },
     {
       "company": "AmarUjala Ltd",
@@ -51,7 +51,7 @@
         "Analyzed consumer behavior, competitor positioning, and monetization models, to support decision-making"
         
       ],
-      "stack": ["Django", "Docker", "React"]
+      "stack": ["GTM", "Excel", "Strategy"]
     },
     {
       "company": "Wipro Ltd",
@@ -62,7 +62,7 @@
         "Applied SQL and Python-based analysis to support data-driven insights and reporting requirements"
       
       ],
-      "stack": ["TypeScript", "Next.js", "Postgres", "AWS"]
+      "stack": ["SQL", "Python", "Power BI"]
     }
   ],
   "projects": [
@@ -113,9 +113,9 @@
     }
   ],
   "footerLinks": [
-    { "label": "email", "href": "mailto:raghu250407@gmail.com" },
-    { "label": "github", "href": "https://github.com/some1uknow" },
-    { "label": "linkedin", "href": "https://linkedin.com/in/raghavsharmaweb3" },
-    { "label": "x", "href": "https://x.com/raghavdotsol" }
+    { "label": "email", "href": "mailto:utsav.raj.338@gmail.com" },
+    { "label": "github", "href": "https://github.com/dr-hofstadter" },
+    { "label": "linkedin", "href": "https://linkedin.com/in/utsav-srcc" },
+    { "label": "x", "href": "https://x.com/69iq_retard" }
   ]
 }
