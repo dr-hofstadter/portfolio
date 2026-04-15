@@ -46,6 +46,8 @@
       "role": "Management Trainee - Research",
       "date": "Jun'25 – Jan'26",
       "location": "Noida, UP",
+      "live": "https://quant-strategy-aszwsb52xhjnixhs68paob.streamlit.app",
+      "liveLabel": "QuantProject.streamlit"
       "bullets": [
         "Conducted in-depth market research and competitive intelligence to shape go-to-market strategy and pricing frameworks",
         "Analyzed consumer behavior, competitor positioning, and monetization models, to support decision-making"
