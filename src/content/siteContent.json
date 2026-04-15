@@ -34,8 +34,9 @@
       "location": "Bangalore, KA",
       "badge": "Solana Foundation Grant — $5,000",
       "bullets": [
-        "Researched and analyzed data on private, PE/VC-backed, and public companies from diverse sources, including press releases, SEC filings (10-K/Q, S-1, D), industry reports and market intelligence",
-        "Tracked a wide range of deal types including LBO/Buyout, M&A, Add-on, Growth Equity, PIPE, Secondary transactions, and other financing events",
+        "Researched and analyzed data on private, PE/VC-backed, and public companies from diverse sources",
+        "Insights from press releases, SEC filings (10-K/Q, S-1, D), industry reports, and market intelligence",
+        "Tracked a wide range of deal types including LBO/Buyout, M&A, Add-on, Growth Equity, PIPE and Secondary transactions",
         "Aggregated and structured large datasets on company financials, ownership structures, and transaction history"
       ],
       "stack": ["Next.js", "Rust", "Anchor", "pgvector", "TypeScript", "AI"]
@@ -46,10 +47,9 @@
       "date": "Jun'25 – Jan'26",
       "location": "Noida, UP",
       "bullets": [
-        "Built 4+ full-stack structural design modules using React, Django, and REST APIs",
-        "Developed 2 steel design modules from scratch based on IS 800:2007 with 15+ validation checks",
-        "Resolved critical CAD generation and session workflow bugs across 7+ modules",
-        "Reduced debugging time by 60%+ through logging, error isolation, and API refactoring"
+        "Conducted in-depth market research and competitive intelligence to shape go-to-market strategy and pricing frameworks",
+        "Analyzed consumer behavior, competitor positioning, and monetization models, to support decision-making"
+        
       ],
       "stack": ["Django", "Docker", "React"]
     },
@@ -59,10 +59,8 @@
       "date": "May'22 – Jul'23",
       "location": "Kochi, KL",
       "bullets": [
-        "Built a session-based chat persistence layer handling 500+ daily conversations with no data loss.",
-        "Built a user feedback pipeline that collected 1,200+ ratings and drove a 15% improvement in model accuracy",
-        "Fixed critical bugs affecting 5,000+ users, pushing satisfaction scores from 3.5 to 4.2/5",
-        "Cut image load times by 20% by moving delivery to a CDN"
+        "Applied SQL and Python-based analysis to support data-driven insights and reporting requirements"
+      
       ],
       "stack": ["TypeScript", "Next.js", "Postgres", "AWS"]
     }
@@ -85,64 +83,33 @@
       "stack": ["SQL", "Tableau"],
       "github": "https://github.com/dr-hofstadter/SQL_covidAnal"
     },
-    {
-      "num": "03",
-      "name": "CPMM",
-      "desc": "On-chain constant product market maker on Solana. x·y=k for token swaps and liquidity provision. PDA-controlled token vaults. Deposit, swap, withdraw — atomic.",
-      "stack": ["Rust", "Anchor", "Solana", "DeFi"],
-      "meta": "On-chain AMM · SPL tokens · PDA vaults",
-      "github": "https://github.com/Some1Uknow/cpmm"
-    },
-    {
-      "num": "04",
-      "name": "EzDeploy",
-      "desc": "Self-hosted deployment platform. Push to GitHub, get a live URL on a unique subdomain. Isolated Docker build container per deploy, real-time log streaming.",
-      "stack": ["TypeScript", "Docker", "CI/CD"],
-      "meta": "Zero-config deploys · Real-time logs · Unique subdomains",
-      "github": "https://github.com/Some1Uknow/ezdeploy"
-    },
-    {
-      "num": "05",
-      "name": "Escrow Program",
-      "desc": "Trustless on-chain escrow in Anchor/Rust. Deposit, refund, take — secured via PDA-controlled SPL token vaults. Atomic settlement, no off-chain intermediaries.",
-      "stack": ["Rust", "Anchor", "Solana"],
-      "meta": "Trustless · PDA vaults · Atomic settlement",
-      "github": "https://github.com/Some1Uknow/escrow"
-    },
-    {
-      "num": "06",
-      "name": "Observer",
-      "desc": "Self-hosted Solana observability indexer in Rust. Uses WebSocket slot updates plus RPC block fetches, Postgres upserts, and a persisted cursor for crash-safe resume. Built for near real-time network health and protocol risk monitoring.",
-      "stack": ["Rust", "Solana RPC", "WebSockets", "Postgres"],
-      "meta": "Crash-safe resume · Idempotent upserts · Protocol risk monitoring",
-      "github": "https://github.com/Some1UKnow/observer"
-    }
+ 
   ],
   "writing": [],
   "awards": [
     {
       "num": "01",
-      "title": "NISM Research Analyst — XV",
-      "desc": "Top 2% from 250+ submissions. Funded LearnSolana.",
+      "title": "NISM Research Analyst — XV | Equity Derivatives - VIII",
+      "desc": "Certified in equity research, derivatives, and mutual funds",
       "year": "2025"
     },
     {
       "num": "02",
-      "title": "Google - Associate Cloud Engineer",
-      "desc": "Highlighted in official Solana newsletter for developer education impact.",
-      "year": "2022"
+      "title": "UGC NET 2025 | 95.68 %ile ",
+      "desc": "Strong research and academic aptitude",
+      "year": "2025"
     },
     {
       "num": "03",
-      "title": "Smart India Hackathon — 1st Place (₹100,000)",
-      "desc": "Team Leader. Top 0.375% from 80,000+ teams nationwide.",
-      "year": "2024"
+      "title": "SRCC GBO | AIR 48",
+      "desc": "Among the top 1% of candidates",
+      "year": "2023"
     },
     {
-      "num": "06",
-      "title": "Superteam India Member",
-      "desc": "Active contributor to Solana ecosystem and developer community.",
-      "year": "Ongoing"
+      "num": "04",
+      "title": "Google - Associate Cloud Engineer | Data Analytics Professional",
+      "desc": "Sound Knowledge of data analytics and cloud infrastructure (GCP)",
+      "year": "2022"
     }
   ],
   "footerLinks": [
