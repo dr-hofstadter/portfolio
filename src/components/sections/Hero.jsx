@@ -47,7 +47,7 @@ export default function Hero() {
             marginTop: 4,
           }}
         />
-        <span>Research Analyst & Private Equity — Bangalore, IN</span>
+        <span>SRCC | Research Analyst | Private Equity — Bangalore, IN</span>
       </p>
 
       <h1
