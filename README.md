@@ -1,4 +1,4 @@
-# Raghav Sharma Portfolio
+# Utsav Singh Portfolio
 
 Personal portfolio built with React and Vite.
 
